@@ -1,0 +1,10 @@
+D:\VB\Dinamik nerne ekleme\bin\Debug\Dinamik nerne ekleme.exe.config
+D:\VB\Dinamik nerne ekleme\bin\Debug\Dinamik nerne ekleme.exe
+D:\VB\Dinamik nerne ekleme\bin\Debug\Dinamik nerne ekleme.pdb
+D:\VB\Dinamik nerne ekleme\obj\Debug\Dinamik nerne ekleme.csprojAssemblyReference.cache
+D:\VB\Dinamik nerne ekleme\obj\Debug\Dinamik_nerne_ekleme.Form1.resources
+D:\VB\Dinamik nerne ekleme\obj\Debug\Dinamik_nerne_ekleme.Properties.Resources.resources
+D:\VB\Dinamik nerne ekleme\obj\Debug\Dinamik nerne ekleme.csproj.GenerateResource.cache
+D:\VB\Dinamik nerne ekleme\obj\Debug\Dinamik nerne ekleme.csproj.CoreCompileInputs.cache
+D:\VB\Dinamik nerne ekleme\obj\Debug\Dinamik nerne ekleme.exe
+D:\VB\Dinamik nerne ekleme\obj\Debug\Dinamik nerne ekleme.pdb

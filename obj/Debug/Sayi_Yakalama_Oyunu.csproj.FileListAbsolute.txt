@@ -1,0 +1,10 @@
+D:\VB\Sayıyı Yakala\bin\Debug\Dinamik nerne ekleme.exe.config
+D:\VB\Sayıyı Yakala\bin\Debug\Dinamik nerne ekleme.exe
+D:\VB\Sayıyı Yakala\bin\Debug\Dinamik nerne ekleme.pdb
+D:\VB\Sayıyı Yakala\obj\Debug\Sayi_Yakalama_Oyunu.csprojAssemblyReference.cache
+D:\VB\Sayıyı Yakala\obj\Debug\Dinamik_nerne_ekleme.Form1.resources
+D:\VB\Sayıyı Yakala\obj\Debug\Dinamik_nerne_ekleme.Properties.Resources.resources
+D:\VB\Sayıyı Yakala\obj\Debug\Sayi_Yakalama_Oyunu.csproj.GenerateResource.cache
+D:\VB\Sayıyı Yakala\obj\Debug\Sayi_Yakalama_Oyunu.csproj.CoreCompileInputs.cache
+D:\VB\Sayıyı Yakala\obj\Debug\Dinamik nerne ekleme.exe
+D:\VB\Sayıyı Yakala\obj\Debug\Dinamik nerne ekleme.pdb
